@@ -1,0 +1,2 @@
+admin_password=Siam_bhai
+global_duration=60
